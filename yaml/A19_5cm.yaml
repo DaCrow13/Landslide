@@ -1,0 +1,9 @@
+path: ../A19_5cm
+train: train
+val: val
+
+
+overlap_mask: False
+nc: 1
+names:
+  0: landslide

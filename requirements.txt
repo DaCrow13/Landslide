@@ -1,0 +1,9 @@
+numpy==2.3.5
+scipy==1.16.3
+ultralytics
+opencv-python
+scikit-learn
+tqdm
+torch
+torchvision
+polars[rtcompat]==1.36.1
